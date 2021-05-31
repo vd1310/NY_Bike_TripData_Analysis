@@ -1,5 +1,8 @@
 # NY_Bike_TripData_Analysis
 
+### Tableau Public link:
+[link to dashboard](https://public.tableau.com/app/profile/vikas.datta3539/viz/Challenge14_16223923465340/Story1)
+
 ## Overview of Project
 Analyze the NY citi bike trip data for 2019-Aug period to convince investors that a bike-sharing program in Des Moines is a solid business proposal by presenting results of trip data analysis to key stakeholders, using Tableau
 
