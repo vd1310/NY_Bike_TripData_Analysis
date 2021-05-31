@@ -35,7 +35,14 @@ Analyze the NY citi bike trip data for 2019-Aug period to convince investors tha
 
 
 ## Summary: 
-#### The city data biemg used for analysis indicate the short term ride usage is most prevalent
-#### Targeting males segment is viable business opprtunity as most of the bikers are males
-#### Moring 7-9 and evening 5-7 are 
+#### The city data being used for analysis indicate the short term ride usage is most prevalent
+#### Targeting males segment is viable business opportunity as most of the bikers are males
+#### Morning 7-9 and evening 5-7 are busy hours for bike rides
+#### Males dominate the peak morning and evening hours and hence the right target audience
+#### Most of the subscribers use bike rides during the weekdays
+#### Representative locations tell us the bike share is pretty popular in big cities
+
+### Additional visualizations that can conducted
+##### 1 We can map age to trip duration and gender to analyze the correlation between age, duration and gender
+##### 2 We can map age with start and stop time along with gender to check trend between age and usage hours and gender and the prepare business plan accordingly
 
