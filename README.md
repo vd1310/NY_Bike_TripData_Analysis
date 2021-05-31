@@ -1,7 +1,7 @@
 # NY_Bike_TripData_Analysis
 
 ### Tableau Public link:
-[link to dashboard](https://public.tableau.com/app/profile/vikas.datta3539/viz/Challenge14_16223923465340/Story1)
+[link to story](https://public.tableau.com/app/profile/vikas.datta3539/viz/Challenge14_16223923465340/Story1)
 
 ## Overview of Project
 Analyze the NY citi bike trip data for 2019-Aug period to convince investors that a bike-sharing program in Des Moines is a solid business proposal by presenting results of trip data analysis to key stakeholders, using Tableau
@@ -34,5 +34,8 @@ Analyze the NY citi bike trip data for 2019-Aug period to convince investors tha
 ![alt text](https://github.com/vd1310/NY_Bike_TripData_Analysis/blob/main/Captureop%20ending%20loc.PNG)
 
 
-## Summary
-#### Summary of results:
+## Summary: 
+#### The city data biemg used for analysis indicate the short term ride usage is most prevalent
+#### Targeting males segment is viable business opprtunity as most of the bikers are males
+#### Moring 7-9 and evening 5-7 are 
+
