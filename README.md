@@ -9,27 +9,27 @@ Analyze the NY citi bike trip data for 2019-Aug period to convince investors tha
 ###### Show the number of bike trips for each type of user and gender for each day of the week
 
 ## Results: 
-### A: Checkout Times for Users
+### A: Checkout Times for Users: This visualization displays the length of time that bikes are checked out for all riders. This shows that the most of the bikers checkout for less than hour
 ![alt text](https://github.com/vd1310/NY_Bike_TripData_Analysis/blob/main/d1.PNG)
 
-### B: Checkout Times for Gender
+### B: Checkout Times for Gender: This visualization displays the length of time that bikes are checked out for each gender. The results clearly show that Males checkout more bikes
 ![alt text](https://github.com/vd1310/NY_Bike_TripData_Analysis/blob/main/d2.PNG)
 
-### C: Trips by weekday for Each Hour
+### C: Trips by weekday for Each Hour: This visualization displays the number of bike trips by weekday for each hour of the day as a heatmap.
 ![alt text](https://github.com/vd1310/NY_Bike_TripData_Analysis/blob/main/d3.PNG)
 
-### D: Trips by Gender (weekday for Each Hour)
+### D: Trips by Gender (weekday for Each Hour): This visualization, you’ll graph the number of bike trips by gender for each hour of each day of the week as a heatmap
 ![alt text](https://github.com/vd1310/NY_Bike_TripData_Analysis/blob/main/d4.PNG)
 
-### E: User trips by Gender by Weekday
+### E: User trips by Gender by Weekday: This visualization displays the number of bike trips by gender for each day of the week as a heatmap.
 ![alt text](https://github.com/vd1310/NY_Bike_TripData_Analysis/blob/main/d5.PNG)
 
-### F: Top starting locations
+### F: Top starting locations: This visualization gives the top trip starting locations
 ![alt text](https://github.com/vd1310/NY_Bike_TripData_Analysis/blob/main/top%20starting%20loc.PNG)
 
-### G: Top ending locations
+### G: Top ending locations: This visualization gives the top trip starting locations
 ![alt text](https://github.com/vd1310/NY_Bike_TripData_Analysis/blob/main/Captureop%20ending%20loc.PNG)
 
 
 ## Summary
-#### Summary of results: 
+#### Summary of results:
